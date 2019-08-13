@@ -1,2 +1,2 @@
 # hello-word
-Just an repository
+Just a repository
